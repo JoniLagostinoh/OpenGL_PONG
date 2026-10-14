@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Joni\Desktop\Assignments\Computer Graphics\SelfStudy\PONG\external\glad\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Joni\Desktop\Assignments\Computer Graphics\SelfStudy\PONG\external\glad\include\glad\glad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joni\Desktop\Assignments\Computer Graphics\SelfStudy\PONG\external\glad\include\KHR\khrplatform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Joni\Desktop\Assignments\Computer Graphics\SelfStudy\PONG\external\glad\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{091EAF29-68C9-3B0A-9A0F-79B47764E2B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4F333C03-F703-3D9D-92D4-D9E693D2D21A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
